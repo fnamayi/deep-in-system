@@ -1,0 +1,1 @@
+ In this project you will learn how to administer a Linux server, You will set up security and network for a ubuntu server, and will install some popular services. 
